@@ -11,7 +11,7 @@ Some of the things that I've tried before I discovered my passion for programmin
 🏛️  studying the art of acting\
 🍽️  working as a waiter\
 📞  being a customer service assistant\
-👷  working as a technical support\
+👷  working as a technical support
 
 ### Connect with me:
 
