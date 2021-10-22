@@ -18,7 +18,7 @@ Some of the things that I've tried before I discovered my passion for programmin
 [<img align="left" alt="Agureev Denis | Instagram" width="30px" src="./instagram.svg" />][instagram]
 [<img align="left" alt="Agureev Denis | Facebook" width="30px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" />][facebook]
 [<img align="left" alt="Agureev Denis | freeCodeCamp" width="30px" src="./free-code-camp.svg" />][freeCodeCamp]
-[<img align="left" alt="Agureev Denis | habr" width="30px" src="https://static10.tgstat.ru/channels/_0/bf/bf60221c12ac17ba9170f322895b79cb.jpg" />][habr]
+[<img align="left" alt="Agureev Denis | habr" width="30px" src="https://lh3.googleusercontent.com/ly5AbhJEoqnU79SzHic8UWZXTkJ15zpdM2RDSds0SJKxy561bUNHdHVUN01j6Ag24AUFd1IbmbU=s0-p" />][habr]
 
 <br />
 
