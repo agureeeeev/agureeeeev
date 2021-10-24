@@ -30,6 +30,18 @@ Some of the things that I've tried before I discovered my passion for programmin
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
+<br />
+
+### My stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=dkihada&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dkihada&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dkihada&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkihada&layout=compact" />
+</a>
+</div>
+
 [instagram]: https://www.instagram.com/agureev___do/
 [freeCodeCamp]: https://www.freecodecamp.org/dkihada
 [facebook]: https://www.facebook.com/profile.php?id=100011831342146
