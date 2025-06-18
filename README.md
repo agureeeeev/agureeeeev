@@ -36,15 +36,15 @@ Some of the things that I've tried before I discovered my passion for programmin
 
 ### My stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=dkihada&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dkihada&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=agureeeeev&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=agureeeeev&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dkihada&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkihada&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=agureeeeev&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agureeeeev&layout=compact" />
 </a>
 </div>
 
 [instagram]: https://www.instagram.com/agureev___do/
 [freeCodeCamp]: https://www.freecodecamp.org/dkihada
 [facebook]: https://www.facebook.com/profile.php?id=100011831342146
-[habr]: https://career.habr.com/dkihada
+[habr]: https://career.habr.com/agureeeeev
