@@ -4,15 +4,6 @@
 
 I am a Frontend Developer and I love learning new stuff. 
 
-Some of the things that I've tried before I discovered my passion for programming:\
-🥋  sambo fighting\
-🎭  playing in the theater\
-💼  studying economics\
-🏛️  studying the art of acting\
-🍽️  working as a waiter\
-📞  being a customer service assistant\
-👷  working as a technical support
-
 ### Connect with me:
 
 [<img align="left" alt="Agureev Denis | Instagram" width="30px" src="./instagram.svg" />][instagram]
